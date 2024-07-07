@@ -165,7 +165,7 @@ smd({
     let _0x5f4dc1 = await db.get();
     afk = _0x5f4dc1.afk || {};
     if (!afk[_0x19b40d.sender]) {
-      return _0x19b40d.reply("*You are not AFK.*");
+      return _0x19b40d.reply("*Fuck off You are not AFK.*");
     }
     delete afk[_0x19b40d.sender];
     _0x5f4dc1.afk = {
