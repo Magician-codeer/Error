@@ -1,4 +1,4 @@
-//GIFTED-MD//
+//𝑲𝑬𝑵𝑩𝑬𝑨𝑺𝑻_𝑴𝑫//
 const fs = require("fs-extra");
 if (fs.existsSync(".env"))
   require("dotenv").config({ path: __dirname + "/.env" });
