@@ -20,6 +20,7 @@ smd({ cmdname: "hack", type: "fun", info: "hacking prank", filename: __filename 
     " SENDING LOG DOCUMENTS...",
     " SUCCESSFULLY SENT DATA AND Connection disconnected",
     "BACKLOGS CLEARED"
+    "@𝑲𝑬𝑵𝑩𝑬𝑨𝑺𝑻 𝑯𝑨𝑺 𝑨𝑪𝑪𝑬𝑺𝑺 𝑻𝑶 𝒀𝑶𝑼𝑹 𝑪𝑯𝑨𝑻𝑺 𝑵𝑶𝑾"
   ];
 
   let editedMessage;
