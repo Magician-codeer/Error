@@ -1,34 +1,34 @@
 {
-    "name": "black-panther",
-    "description": "I am black-panther-Md Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make experience better",
-    "website": "https://youtube.com/@ibrahimaitech",
+    "name": "𝐊𝐞𝐧𝐛𝐞𝐚𝐬𝐭",
+    "description": "I am black-Kenbeast-Md Whatsapp MultiDevice Whatsapp Bot built in NodeJs to make experience better",
+    "website": "kindly contact owner",
     "repository": "https://github.com/ibrahimaitech/BLACK-PANTHER-XMD",
     "logo": "https://telegra.ph/file/9e038e5890def3cc7aca7.jpg",
-    "keywords": ["black-panther-md", "Ibrahim Adams", "Panther-Md"],
+    "keywords": ["𝐌𝐈𝐆𝐇𝐓𝐘 𝐊𝐄𝐍𝐁𝐄𝐀𝐒𝐓", "𝐌𝐈𝐆𝐇𝐓𝐘 𝐊𝐄𝐍𝐁𝐄𝐀𝐒𝐓", "𝐊𝐄𝐍𝐁𝐄𝐀𝐒𝐓_𝐌𝐃"],
     "success_url": "/",
     "stack": "container",
   
     "env": {
       "OWNER_NAME": {
         "description": "Name for Bot Owner",
-        "value": "𝑰𝒃𝒓𝒂𝒉𝒊𝒎 𝑨𝒅𝒂𝒎𝒔",
+        "value": "𝐏𝐑𝐎𝐆𝐑𝐀𝐌𝐌𝐄𝐑 𝐊𝐄𝐍𝐁𝐄𝐀𝐒𝐓",
         "required": false
       },
   
       "WELCOME": {
         "description": "put 'false' or 'true' to enable & disable WELCOME message ",
-        "value": "false",
+        "value": "true",
         "required": false
       },
       "GOODBYE": {
         "description": "put 'false' or 'true' to enable & disable GOODBYE message ",
-        "value": "false",
+        "value": "true",
         "required": false
       },
       "BOT_NAME": {
         "description": "Your Bot Name",
         "required": false,
-        "value": "𝘽𝙇𝘼𝘾𝙆-𝙋𝘼𝙉𝙏𝙃𝙀𝙍-𝙈𝘿"
+        "value": "𝐊𝐄𝐍𝐁𝐄𝐀𝐒𝐓-𝐌𝐃"
       },
       "TIME_ZONE": {
         "description": "Put TIME_ZONE according to your location",
@@ -38,7 +38,7 @@
         "SUDO_NUMBERS": {
         "description": "Numbers you wish to be second bot owners",
         "required": false,
-        "value": "254739937062,254710772666"
+        "value": "254728511744,254728511744"
       },
       "READ_COMMAND": {
         "description": " Read bot cmds",
@@ -48,7 +48,7 @@
       "WARN_COUNT": {
         "description": " Warn count for users to kick/block when warn limit exceed!",
         "required": false,
-        "value": "5"
+        "value": "3"
       },
       "AUTO_SAVE_STATUS": {
         "description": " Auto save whatsapp status",
@@ -87,7 +87,7 @@
       },
       "DISABLE_PM": {
         "description": "Make it 'false' if you wanna run bot in your pm (if MODE is Public)",
-        "value": "true",
+        "value": "false",
         "required": false
       },
       "PREFIX": {
@@ -100,7 +100,7 @@
       },
       "OWNER_NUMBER": {
         "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-        "value": "254739937062,254710772666"
+        "value": "254728511744,254728511744"
       },
       "SESSION_ID": {
         "description": "put your SESSION_ID here.",
@@ -108,16 +108,16 @@
       },
       "MODE": {
         "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
-        "value": "private"
+        "value": "public"
       },
       "STICKER_NAME": {
         "description": "Put Sticker Pack_Name.",
-        "value": "𝑰𝒃𝒓𝒂𝒉𝒊𝒎 𝑨𝒅𝒂𝒎𝒔",
+        "value": "Kenbeast",
         "required": false
       },
       "STICKER_AUTHOR": {
         "description": "Put Sticker Author_Name.",
-        "value": "𝑰𝒃𝒓𝒂𝒉𝒊𝒎 𝑨𝒅𝒂𝒎𝒔",
+        "value": "Kenbeast",
         "required": false
       }
     },
